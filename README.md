@@ -54,8 +54,8 @@ The dataset used in this project is available on **[Inside Airbnb](http://inside
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Predict-Airbnb-Prices-Sydney.git
-   cd Predict-Airbnb-Prices-Sydney
+   git clone https://github.com/Namrac3/Airbnb-Price-Prediction
+   cd Airbnb-Price-Prediction
    ```
 
 2. Launch Jupyter Notebook:
