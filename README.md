@@ -24,7 +24,7 @@ It covers the complete pipeline from **data cleaning → feature engineering →
 Predict-Airbnb-Prices-Sydney/
 │
 ├── notebooks/
-│   └── Airbnb_Price_Prediction.ipynb
+│   └── AirBnB Price Prediction.ipynb
 │
 └── README.md
 ```
@@ -55,7 +55,7 @@ The dataset used in this project is available on **[Inside Airbnb](http://inside
 1. Clone this repository:
    ```bash
    git clone https://github.com/Namrac3/Airbnb-Price-Prediction
-   cd Airbnb-Price-Prediction
+   cd AirBnB Price Prediction
    ```
 
 2. Launch Jupyter Notebook:
