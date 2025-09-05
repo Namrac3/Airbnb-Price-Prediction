@@ -24,7 +24,7 @@ It covers the complete pipeline from **data cleaning → feature engineering →
 Predict-Airbnb-Prices-Sydney/
 │
 ├── notebooks/
-│   └── Case_Study_1_Predict_Airbnb_Prices_Sydney.ipynb
+│   └── Airbnb_Price_Prediction.ipynb
 │
 └── README.md
 ```
@@ -60,7 +60,7 @@ The dataset used in this project is available on **[Inside Airbnb](http://inside
 
 2. Launch Jupyter Notebook:
    ```bash
-   jupyter notebook notebooks/Case_Study_1_Predict_Airbnb_Prices_Sydney.ipynb
+   jupyter notebook notebooks/AirBnB Price Prediction.ipynb
    ```
 
 ---
@@ -79,7 +79,7 @@ The dataset used in this project is available on **[Inside Airbnb](http://inside
 
 | Correlation Heatmap | Price Distribution |
 |---------------------|--------------------|
-| ![heatmap](images/heatmap.png) | ![distribution](images/price_dist.png) |
+| ![heatmap]<img width="950" height="849" alt="image" src="https://github.com/user-attachments/assets/9aea7278-34d6-43e7-bfb4-324d91087e19" />
 
 ---
 
